@@ -1,0 +1,32 @@
+@import "fonts.css";
+
+
+body {
+    font-family: 'Sofia Pro';
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    display: inline-block;
+    color: #fff;
+    background: #6b62ff;
+    font-size: 4rem;
+    font-weight: 500;
+    width: 18rem;
+    padding: 10px;
+    line-height: 1;
+}
+
+
+.illustration {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.content {
+    padding-top: 1rem;
+}
